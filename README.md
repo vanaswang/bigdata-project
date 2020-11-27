@@ -18,4 +18,4 @@
 
 
 
-<span><img width='72px'  src="https://img.shields.io/badge/贡献人-yellow" alt="MIT License" /> <span/>
+<span><img  src="https://img.shields.io/badge/贡献人-yellow" alt="MIT License" /> <span/>
