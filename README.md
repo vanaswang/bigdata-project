@@ -2,7 +2,7 @@
 
 
 
-![Apache Flink](README_images/flink-header-logo.svg)
+<img width="50%" src="README_images/flink-header-logo.svg" />()
 
 
 
