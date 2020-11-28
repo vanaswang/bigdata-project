@@ -32,7 +32,8 @@
 |   Kudu    | ☑️master/ts   | ☑️ts     | ☑️ts     |
 |   Kafka   |              | ☑️       | ☑️       |
 |   Flume   |              | ☑️       | ☑️       |
-
+|   yarn    | ☑️            |         |         |
+|   sqoop   | ☑️            |  ☑️      |   ☑️     |
 
 <span><img width='50px' src="https://img.shields.io/badge/使用-black" alt="使用" /> <span/>
 
