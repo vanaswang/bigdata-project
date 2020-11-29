@@ -33,7 +33,22 @@
 |   Kafka   |              | ☑️       | ☑️       |
 |   Flume   |              | ☑️       | ☑️       |
 |   yarn    | ☑️            |         |         |
-|   sqoop   | ☑️            |  ☑️      |   ☑️     |
+|   sqoop   | ☑️            | ☑️       | ☑️       |
+|   HBASE   | ☑️master      | ☑️       | ☑️       |
+
+
+
+## Phoenix 
+
+[CDH6.3.2安装（包括Phoenix和Kylin）](https://blog.csdn.net/monster77777/article/details/109243089)
+
+
+
+## Flink
+
+[编译 CDH-6.3.1 版本的 Flink 1.10](https://blog.csdn.net/mhtc5052/article/details/104560570)
+
+
 
 <span><img width='50px' src="https://img.shields.io/badge/使用-black" alt="使用" /> <span/>
 
