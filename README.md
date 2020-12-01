@@ -11,6 +11,12 @@
 
 
 
+数据源：[**深圳市图书馆书籍外借数据**](https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_01603514)
+
+数据源：[**大鹏新区-卡口过车数据统计表**](https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_03001079)
+
+数据源：[**高速公路ETC入深圳数据**](https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_00403621)
+
 
 
 <span><img width='50px' src="https://img.shields.io/badge/安装-blue" alt="安装" /> <span/>
@@ -40,15 +46,13 @@
 
 ## Phoenix 
 
-[CDH6.3.2安装（包括Phoenix和Kylin）](https://blog.csdn.net/monster77777/article/details/109243089)
+[**CDH6.3.2安装（包括Phoenix和Kylin）**](https://blog.csdn.net/monster77777/article/details/109243089)
 
 
 
 ## Flink
 
-[编译 CDH-6.3.1 版本的 Flink 1.10](https://blog.csdn.net/mhtc5052/article/details/104560570)
-[parcels包制作地址](https://github.com/gaozhangmin/flink-parcel)
-
+[**CDH6.3.2添加安装flink-yarn服务**](https://blog.csdn.net/qq_31454379/article/details/110440037)
 
 <span><img width='50px' src="https://img.shields.io/badge/使用-black" alt="使用" /> <span/>
 
