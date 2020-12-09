@@ -62,3 +62,8 @@
 
 <img  src="https://img.shields.io/badge/Wangwy-9cf" alt="Wangwy" /> <img  src="https://img.shields.io/badge/Linzc-9cf" alt="Linzc" /> <img  src="https://img.shields.io/badge/Yangxw-9cf" alt="Yangxw" /> 
 
+## NiFi
+[**NiFi 样例**](http://node001:58080/nifi/)
+[**config url**](http://node001/nifi/config.json)
+
+
