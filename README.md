@@ -54,6 +54,12 @@
 
 [**CDH6.3.2添加安装flink-yarn服务**](https://blog.csdn.net/qq_31454379/article/details/110440037)
 
+## NiFi
+
+[**NiFi 样例**](http://node001:58080/nifi/)
+
+[**config url**](http://node001/nifi/config.json)
+
 <span><img width='50px' src="https://img.shields.io/badge/使用-black" alt="使用" /> <span/>
 
 
@@ -62,8 +68,6 @@
 
 <img  src="https://img.shields.io/badge/Wangwy-9cf" alt="Wangwy" /> <img  src="https://img.shields.io/badge/Linzc-9cf" alt="Linzc" /> <img  src="https://img.shields.io/badge/Yangxw-9cf" alt="Yangxw" /> 
 
-## NiFi
-[**NiFi 样例**](http://node001:58080/nifi/)
-[**config url**](http://node001/nifi/config.json)
+
 
 
